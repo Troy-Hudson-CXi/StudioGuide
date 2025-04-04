@@ -1,4 +1,4 @@
-# NICE CXone Studio Guide
+# NICE CXone Mpower Studio Guide
 
 Welcome to the **interactive guide** for learning, using, and mastering the Studio scripting environment in NICE CXone.
 
@@ -26,3 +26,4 @@ This project is licensed under [Creative Commons Attribution 4.0 International (
 Feel free to use, remix, and build upon the content — just give credit to **M. Troy Hudson**.
 
 > Built with ❤️ and [Docsify](https://docsify.js.org).
+
